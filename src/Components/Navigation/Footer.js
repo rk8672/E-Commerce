@@ -23,7 +23,7 @@ export default function Footer() {
         <div className="main-footer-content">
           <div className="row">
             <div className="col-lg-4">
-              <h2>Clayma store</h2>
+              <h2>Radha Krishna store</h2>
               <p>
                 We are providing high quality services with 100% satisfaction
                 guarantee.
@@ -78,11 +78,11 @@ export default function Footer() {
               </h5>
               <h5>
                 <FontAwesomeIcon icon={faEnvelope} className="footer-icons" />{" "}
-                info@claymastore.com
+                info@radhakrishnastore.com
               </h5>
               <h5>
                 <FontAwesomeIcon icon={faGlobe} className="footer-icons" />{" "}
-                www.claymastore.com
+                www.radhaKrishnastore.com
               </h5>
 
               <h3> Customer Care</h3>
@@ -112,7 +112,7 @@ export default function Footer() {
         </div>
         <div className="row">
           <div className="col-lg-12 main-footer-copyright">
-            <p>Copyright &copy; {dateyear}. All Right reserved.</p>
+            <p>MADE BY RADHA KRISHN SINGH &copy; {dateyear}. All Right reserved.</p>
             <hr />
           </div>
         </div>

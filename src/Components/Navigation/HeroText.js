@@ -6,7 +6,7 @@ export default function HeroText() {
       <div className="hero-section-text">
         <h1 className="mb-4">
           {" "}
-          <span>Clayma</span> store
+          <span>Radha Krishna </span> store
         </h1>
         <h1>
           The <span>home</span> of <span>Fashion</span>.

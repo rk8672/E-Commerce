@@ -10,11 +10,11 @@ export default function TopBanner() {
       <div className="row">
         <div className="col-lg-3">
           <FontAwesomeIcon icon={faPhone} className="top-banner-icon" />
-          +0199999999
+          +91 7524807719
         </div>
         <div className="col-lg-3">
           <FontAwesomeIcon icon={faEnvelope} className="top-banner-icon" />
-          sales@store.com
+          sales@radhakrishnastore.com
         </div>
         <div className="col-lg-6">
           On sale now up to 50% off!

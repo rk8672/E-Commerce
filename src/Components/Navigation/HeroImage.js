@@ -7,7 +7,7 @@ export default function HeroImage(props) {
     <div className="hero-section">
       <div className="hero-section-text">
         <h1>
-          <span>Clayma</span> store  
+          <span>Radha Krishna</span> store  
         </h1>
         
       </div>
